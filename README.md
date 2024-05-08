@@ -1,9 +1,9 @@
 # Global-COVID-19-Impact-Tableau-Dashboard
 
-<img width="1000" alt="Screenshot 2024-05-05 at 15 21 57" src="https://github.com/luna1221/Global-COVID-19-Impact-Tableau-Dashboard/assets/122708598/03b2142f-bda3-4720-b50c-887866042dcb">
-
 #### Overview:
 The series of data visualizations provide a comprehensive overview of the global impact of COVID-19, illustrating disparities in mortality rates and highlighting regions most affected by the virus. The data underscores the need for effective public health measures and international cooperation to manage and mitigate the effects of global health crises.
+
+<img width="1000" alt="Screenshot 2024-05-05 at 15 21 57" src="https://github.com/luna1221/Global-COVID-19-Impact-Tableau-Dashboard/assets/122708598/03b2142f-bda3-4720-b50c-887866042dcb">
 
 Plot 1: Global Comparison of COVID-19 Case Fatality Rates
 Question: How do COVID-19 lethality rates vary across different countries?
