@@ -1,6 +1,6 @@
 # Global-COVID-19-Impact-Tableau-Dashboard
 
-<img width="894" alt="Screenshot 2024-05-05 at 15 21 57" src="https://github.com/luna1221/Global-COVID-19-Impact-Tableau-Dashboard/assets/122708598/03b2142f-bda3-4720-b50c-887866042dcb">
+<img width="1000" alt="Screenshot 2024-05-05 at 15 21 57" src="https://github.com/luna1221/Global-COVID-19-Impact-Tableau-Dashboard/assets/122708598/03b2142f-bda3-4720-b50c-887866042dcb">
 
 
 Plot 1: Global Comparison of COVID-19 Case Fatality Rates
